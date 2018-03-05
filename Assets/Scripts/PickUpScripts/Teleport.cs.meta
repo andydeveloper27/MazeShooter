@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54366f96138837e43a55e113ca70883e
+timeCreated: 1514986982
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_TeleportPickUp: {fileID: 1210786038638650, guid: 49b3fbe977b16f643b7427ef3533ccde,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

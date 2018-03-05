@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e74e4333b8a279049ab7ed5e9106ebd7
+timeCreated: 1514986947
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_Player: {fileID: 1949778564844166, guid: c23376ef0e2cd5e47b305eb35f16b8ac, type: 2}
+  - m_TextMiniMap: {fileID: 114320080702325894, guid: 467236075d32a2646b59f6bd4f9fbec5,
+      type: 2}
+  - m_TextInvisibility: {fileID: 114724179688666268, guid: 467236075d32a2646b59f6bd4f9fbec5,
+      type: 2}
+  - m_TextFasterReload: {fileID: 114863781125105000, guid: 467236075d32a2646b59f6bd4f9fbec5,
+      type: 2}
+  - m_TextTeleport: {fileID: 114246170649699532, guid: 467236075d32a2646b59f6bd4f9fbec5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

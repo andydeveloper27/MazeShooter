@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e58bb31cf27b70d48a5687a41e211763
+timeCreated: 1514986356
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_FasterReloadPickUp: {fileID: 1690004208614118, guid: 1fda77791358a2c44acfedcba7924ca9,
+      type: 2}
+  - m_PlayerShooting: {fileID: 114580510822043734, guid: c23376ef0e2cd5e47b305eb35f16b8ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

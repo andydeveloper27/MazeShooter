@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a349bcee49dcf6e42a20d732168dc4ca
+timeCreated: 1514987074
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_Teleport: {fileID: 114589182086966870, guid: 49b3fbe977b16f643b7427ef3533ccde,
+      type: 2}
+  - m_PickUpEnabled: {fileID: 114441111736929340, guid: c23376ef0e2cd5e47b305eb35f16b8ac,
+      type: 2}
+  - m_Player: {fileID: 1949778564844166, guid: c23376ef0e2cd5e47b305eb35f16b8ac, type: 2}
+  - m_TeleportLocation: {fileID: 1298147728678610, guid: d600e8fbc7a311e49869cff51f4d05bd,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

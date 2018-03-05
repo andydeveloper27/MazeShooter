@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44f3c8cd4e3394745a475e860829912c
+timeCreated: 1514986279
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_ShootingSound: {fileID: 8300000, guid: 764265bd071a68d44a24a43d88a40335, type: 3}
+  - m_ChargeBar: {fileID: 114299368000546374, guid: fe350bc5427126d4fad3eca96b57cc5c,
+      type: 2}
+  - m_FirstPersonCamera: {fileID: 20080094060082698, guid: c23376ef0e2cd5e47b305eb35f16b8ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

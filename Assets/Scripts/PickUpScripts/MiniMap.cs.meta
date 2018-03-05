@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6df8f899a250a244bad290f499c9d88d
+timeCreated: 1514986848
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_MiniMapCamera: {fileID: 20877429425667568, guid: c23376ef0e2cd5e47b305eb35f16b8ac,
+      type: 2}
+  - m_MiniMapPickUp: {fileID: 1481757141753544, guid: 11d21aceac945d040ba76cf4e663d0a1,
+      type: 2}
+  - m_MiniMapImage: {fileID: 114771964312606768, guid: fbd502f3cececc34180dedfcf77cd6b6,
+      type: 2}
+  - m_MiniMapBlip: {fileID: 1068047786758082, guid: 72c7f61c7abea09429f9ef90441f59c5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7e1fcbdf82b7d545b430dcddf58b569
+timeCreated: 1515693133
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_Target: {fileID: 4955012171320408, guid: c23376ef0e2cd5e47b305eb35f16b8ac, type: 2}
+  - m_NPC: {fileID: 1277640980264260, guid: 23be0ea195dff7141898421c90cc8cec, type: 2}
+  - m_GameOverText: {fileID: 114795959425429642, guid: 467236075d32a2646b59f6bd4f9fbec5,
+      type: 2}
+  - m_Invisibility: {fileID: 114614387070095776, guid: ec143e9ce111fd44aaa7f1fb2a638ea1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
